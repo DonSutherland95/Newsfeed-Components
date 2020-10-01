@@ -149,7 +149,7 @@ data.push({
   thirdParagraph:
     "Pidgeot Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 });
-console.log(data);
+// console.log(data);
 
 let articles = document.querySelector(".articles");
 data.forEach((item) => {
